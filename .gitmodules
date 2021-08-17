@@ -1,0 +1,9 @@
+[submodule "java/encryptor"]
+	path = java/encryptor
+	url = https://github.com/wniemiec-data-java/encryptor
+[submodule "java/session"]
+	path = java/session
+	url = https://github.com/wniemiec-data-java/session
+[submodule "java/pair"]
+	path = java/pair
+	url = https://github.com/wniemiec-data-java/pair
